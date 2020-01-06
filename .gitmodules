@@ -28,3 +28,6 @@
 [submodule "coloredwood"]
 	path = coloredwood
 	url = https://gitlab.com/VanessaE/coloredwood.git
+[submodule "intllib"]
+	path = intllib
+	url = https://github.com/minetest-mods/intllib.git
