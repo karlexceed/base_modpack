@@ -1,0 +1,6 @@
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores.git
