@@ -4,3 +4,12 @@
 [submodule "moreores"]
 	path = moreores
 	url = https://github.com/minetest-mods/moreores.git
+[submodule "biome_lib"]
+	path = biome_lib
+	url = https://gitlab.com/VanessaE/biome_lib.git
+[submodule "moretrees"]
+	path = moretrees
+	url = https://gitlab.com/VanessaE/moretrees.git
+[submodule "plantlife_modpack"]
+	path = plantlife_modpack
+	url = https://gitlab.com/VanessaE/plantlife_modpack.git
