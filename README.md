@@ -1,7 +1,7 @@
-# Fantasy Base Modpack
+# Base Modpack
 ### by karlexceed
 
-This is a modpack that combines several other mods that I consider almost necessary for my Minetest worlds.
+This is a modpack that combines several other mods that I consider almost necessary for Minetest worlds.
 
 It combines:
 - Baked Clay by TenPlus1 (bakedclay)
@@ -30,16 +30,24 @@ It combines:
 ## Important Details
 
 ### Dependencies
-Just the game's default stuff.
+Just the default stuff.
+
+Specifically, they require:
+- default
+- doors
+- dye
+- flowers
+- stairs
+- vessels
 
 ### Recommends
 Nothing in particular.
 
 ### Conflicts
-This modpack should not be installed with other mods that may conflict.
+This modpack should not be installed with other mods that may cause a conflict.
 
 ### Software Requirements
-This mod requires Minetest 0.4.11 or later.  It is unlikely to work with old versions.
+This modpack has not been tested with many different versions of Minetest, but it is intended for use with a relatively recent version.  It is unlikely to work with old versions.
 
 ## Notes
 
