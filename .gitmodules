@@ -22,3 +22,9 @@
 [submodule "farming"]
 	path = farming
 	url = https://notabug.org/TenPlus1/farming.git
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://gitlab.com/VanessaE/unifieddyes.git
+[submodule "coloredwood"]
+	path = coloredwood
+	url = https://gitlab.com/VanessaE/coloredwood.git
